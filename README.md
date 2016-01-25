@@ -1,0 +1,1 @@
+Demo created for the needs of the question: http://stackoverflow.com/questions/34591394/push-view-from-presented-view-controller-in-ios/34929792?noredirect=1#comment57700727_34929792
